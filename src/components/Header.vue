@@ -1,7 +1,7 @@
 <template>
   <header>
     <img src="@/assets/cashflow-icon.svg" alt="Logo" @click="reload" />
-    <h1><span>Cash</span>Flow</h1>
+    <h1><span>Control</span>Gastos</h1>
     <span></span>
   </header>
 </template>
